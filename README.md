@@ -1,0 +1,2 @@
+# expense-tracker-app-js
+ The Real-time Expense Tracker is a simple, user-friendly web application designed to help users manage their monthly budget effectively. Users can input their monthly salary and various expenses into the app, and it calculates the total expenses and remaining balance in real-time. This tool allows users to stay on top of their finances and track where their money is going.
